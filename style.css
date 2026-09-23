@@ -8,10 +8,14 @@
     overflow: hidden;
 }
 
-.cat1 img{
-    position: absolute;
-    height: auto;
-    width: 40px;
-    left: 60%;
-    top: 69%;
+.cat1 {
+    position: fixed;
+    height: 250px;
+    width: 210px;
+    left: 37%;
+    top: 55%;
+}
+
+h1 {
+    color: antiquewhite;
 }
