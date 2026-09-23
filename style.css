@@ -1,4 +1,4 @@
-body {
+.part1 {
     height: 150vh;
     background-image: url("images/doghouse.jpg");
     background-position: center;
@@ -10,9 +10,8 @@ body {
 
 .cat1 img{
     position: absolute;
-    height: 30px;
-    width: 30px;
+    height: auto;
+    width: 40px;
     left: 60%;
-    top: 50%;
-    transform: scale(1);
+    top: 69%;
 }
