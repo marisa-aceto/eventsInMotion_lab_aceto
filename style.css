@@ -1,0 +1,17 @@
+body {
+    height: 200vh;
+    background-image: url("images/doghouse.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.cat1 {
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    left: 60%;
+    top: 69%;
+    transform: scale(2);
+}
