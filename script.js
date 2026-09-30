@@ -24,6 +24,6 @@ window.addEventListener('keydown', (event) => {
          frog1Pic.style.transform = `rotate(${keyd}deg)`;
      }
      if (keyd == 180) {
-    window.open("https://www.pbs.org/wnet/nature/blog/frog-fact-sheet/");
+        window.open("https://www.pbs.org/wnet/nature/blog/frog-fact-sheet/");
      }
 });
